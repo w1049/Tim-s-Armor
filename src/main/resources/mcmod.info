@@ -1,0 +1,16 @@
+[
+{
+  "modid": "timarmor",
+  "name": "Tim's Armor",
+  "description": "Tim's Armor Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["1049344862"],
+  "credits": "Mojang,Minecraft,Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
